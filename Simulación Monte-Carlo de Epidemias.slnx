@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/benchmark/" />
+  <Folder Name="/src/output/" />
+  <Folder Name="/src/output/frames/" />
+  <Folder Name="/src/parallel/">
+    <Project Path="SimuladorMonteCarlo.Parallel/SimuladorMonteCarlo.Parallel.csproj" Id="7f51dd21-f2d7-45fe-8c82-f50e9d7c7a51" />
+  </Folder>
+  <Folder Name="/src/sequential/">
+    <Project Path="SimuladorMonteCarlo.Sequential/SimuladorMonteCarlo.Sequential.csproj" Id="19818c99-debe-40dc-b707-95e9e70f4655" />
+  </Folder>
+  <Folder Name="/src/visualization/">
+    <File Path="make_gif.py" />
+    <File Path="make_side_by_side.py" />
+  </Folder>
+</Solution>

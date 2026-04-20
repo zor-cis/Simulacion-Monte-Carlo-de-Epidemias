@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|visualization{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_side_by_side.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|visualization{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|solutionrelative:make_side_by_side.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|visualization{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_gif.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|visualization{3037F193-54F4-B0ED-E91A-C2AAFAAF2C57}|solutionrelative:make_gif.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19818C99-DEBE-40DC-B707-95E9E70F4655}|SimuladorMonteCarlo.Sequential\\SimuladorMonteCarlo.Sequential.csproj|c:\\users\\zorcis estefani\\desktop\\simulaci\u00F3n monte-carlo de epidemias\\simuladormontecarlo.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19818C99-DEBE-40DC-B707-95E9E70F4655}|SimuladorMonteCarlo.Sequential\\SimuladorMonteCarlo.Sequential.csproj|solutionrelative:simuladormontecarlo.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "make_side_by_side.py",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_side_by_side.py",
+              "RelativeDocumentMoniker": "make_side_by_side.py",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_side_by_side.py",
+              "RelativeToolTip": "make_side_by_side.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-20T19:29:41.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "make_gif.py",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_gif.py",
+              "RelativeDocumentMoniker": "make_gif.py",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\make_gif.py",
+              "RelativeToolTip": "make_gif.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-20T19:29:11.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\SimuladorMonteCarlo.Sequential\\Program.cs",
+              "RelativeDocumentMoniker": "SimuladorMonteCarlo.Sequential\\Program.cs",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\Simulaci\u00F3n Monte-Carlo de Epidemias\\SimuladorMonteCarlo.Sequential\\Program.cs",
+              "RelativeToolTip": "SimuladorMonteCarlo.Sequential\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:22:44.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
